@@ -1,2 +1,2 @@
 # BallJump
- The first of my one week projects in game development third semester (second year)
+The first of these small projects focusing on a simple platformer style game in 3D
